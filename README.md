@@ -7,4 +7,5 @@ Just because certain questions are on this review, does not mean they will be on
 Study at your own risk.
 
 Contact:
-email: dnathan047@gmail.com
+
+dnathan047@gmail.com
